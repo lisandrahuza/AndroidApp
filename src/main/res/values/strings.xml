@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Profil</string>
+    <string-array name="country">
+        <item>Germania </item>
+        <item>Romania </item>
+        <item>Brazil</item>
+        <item>Bulgaria</item>
+        <item>Ungaria</item>
+        <item>Grecia</item>
+        <item>America</item>
+        <item>Anglia</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
